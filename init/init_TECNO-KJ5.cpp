@@ -31,3 +31,6 @@ void vendor_load_properties()
         property_override(string("ro.product.") + prop + string("marketname"), "TECNO SPARK 20");
         property_override(string("ro.product.system.") + prop + string("device"), "TECNO SPARK 20");
     }
+property_override("ro.bootimage.build.date.utc", "1736954168");
+    property_override("ro.build.date.utc", "1736954168");
+}
