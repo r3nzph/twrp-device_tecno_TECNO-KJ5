@@ -1,1 +1,1 @@
-# twrp-device_tecno_TECNO-KJ5
+# Device config for TWRP TECNO SPARK 20 ( TECNO-KJ5 )
